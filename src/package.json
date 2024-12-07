@@ -5,7 +5,8 @@
   "description": "A static website for Ralos Consulting Inc.",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "echo 'No build required for this static site.'"
   },
   "dependencies": {
     "express": "^4.18.2"
@@ -14,4 +15,5 @@
     "node": ">=18.x"
   },
   "license": "MIT"
+  
 }
