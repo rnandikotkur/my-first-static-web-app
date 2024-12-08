@@ -1,0 +1,29 @@
+{
+    "routes": [
+      {
+        "route": "/azure",
+        "rewrite": "/azure/well-architected-framework.html"
+      },
+      {
+        "route": "/google-cloud",
+        "rewrite": "/google-cloud/well-architected-framework.html"
+      },
+      {
+        "route": "/aws",
+        "rewrite": "/aws/well-architected-framework.html"
+      },
+      {
+        "route": "/services/cloud-cost-management",
+        "rewrite": "/services/cloud-cost-management.html"
+      },
+      {
+        "route": "/devsecops/infrastructure-as-code",
+        "rewrite": "/devsecops/infrastructure-as-code.html"
+      },
+      {
+        "route": "/",
+        "rewrite": "/index.html"
+      }
+    ]
+  }
+  
